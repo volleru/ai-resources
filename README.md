@@ -1,4 +1,4 @@
-# Awesome AI Resources
+# AI Resources
 
 A comprehensive collection of free resources to learn everything about AI, including Large Language Models (LLMs) and AI Agents.
 
